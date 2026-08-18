@@ -1,0 +1,12 @@
+{
+  "name": "endpoint-tester-cf08a3",
+  "version": "1.0.0",
+  "description": "A endpoint-tester utility",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["endpoint-tester", "utility"],
+  "license": "MIT"
+}
